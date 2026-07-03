@@ -1,0 +1,13 @@
+{
+  "name": "Grocery List Pro",
+  "short_name": "Grocery Pro",
+  "description": "A smart grocery list that automatically sorts items by store section.",
+  "start_url": "/grocery-list-pro/",
+  "display": "standalone",
+  "background_color": "#f7fee7",
+  "theme_color": "#22c55e",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
